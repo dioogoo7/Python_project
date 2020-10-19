@@ -1,2 +1,2 @@
 # Python_project
-Instacart Grocery Basket Analysis
+Instacart Data Analysis Project
