@@ -2,7 +2,7 @@
 Instacart Data Analysis Project
 
 ## Project Overview
-Instacart is an online grocery store that operates through an app. The project’s objective is to increase sales by uncovering more information about their sales patterns and the client’s purchasing behaviours. My task was to perform an initial data and exploratory analysis of some of their data to derive insights and suggest strategies for better segmentation.
+Instacart is an online grocery store that operates through an app. The project’s objective is to increase sales by uncovering more information about the sales patterns and the clients' purchasing behaviours. My task was to perform an initial data and exploratory analysis of the data to derive insights and suggest strategies for better segmentation.
 
 ### Key Questions
 * What are the busiest days of the week and hours of the day?
