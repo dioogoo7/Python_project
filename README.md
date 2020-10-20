@@ -16,7 +16,7 @@ Instacart is an online grocery store that operates through an app. The projectâ€
 * What differences can you find in ordering habits of different customer profiles? 
 
 ## Information about data set
-![Population Flow Chart](https://1drv.ms/u/s!AnUvVWt6s_rKhYotWK0eqgHiNyp8xQ?e=UeGkkw) 
+![Population Flow Chart](https://github.com/dioogoo7/Python_skills/blob/main/Supporting%20documents/Population%20flow%20chart.gif) 
 The grey boxes in the first row of the populatin flow represent the four original data sets I used for this assignment.
 The second row of boxes represents the data sets after manipulation, e.g. removal of missing values and duplicates. 
 The third row represents the merges that were performed between the datasets. 
