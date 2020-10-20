@@ -18,17 +18,15 @@ Instacart is an online grocery store that operates through an app. The projectâ€
 ## Information about data set
 ![Population Flow Chart](https://github.com/dioogoo7/Python_skills/blob/main/Supporting%20documents/Population%20flow%20chart.gif) 
 
-The grey boxes in the first row of the populatin flow represent the four original data sets I used for this assignment.
-
-The second row of boxes represents the data sets after manipulation, e.g. removal of missing values and duplicates. 
-
-The third row represents the merges that were performed between the datasets. 
+* The grey boxes in the first row of the populatin flow represent the four original data sets I used for this assignment.
+* The second row of boxes represents the data sets after manipulation, e.g. removal of missing values and duplicates. 
+* The third row represents the merges that were performed between the datasets. 
 
 ## Brief description of the uploaded folders 
-The project management folder contains the initial briefing for this assignment.
-The scripts folder contains the complete python scripts that were written to complete the assignment.
-The analysis folder contains interim reports, test files and visualizations created during the assignment.
-The sent to client folder contains the final excel report.
-The data folder was not uploaded due to its large size.
+* The project management folder contains the initial briefing for this assignment.
+* The scripts folder contains the complete python scripts that were written to complete the assignment.
+* The analysis folder contains interim reports, test files and visualizations created during the assignment.
+* The sent to client folder contains the final excel report.
+* The data folder was not uploaded due to its large size.
 
-[Link to Final Excel Report](https://1drv.ms/x/s!AnUvVWt6s_rKgpgjRQyb3zwqT6q0uw?e=q5kzmp)
+[Link to Final Excel Report](https://github.com/dioogoo7/Python_skills/blob/main/Supporting%20documents/A4_final_report_Diogo%20Mesquita.xlsx)
