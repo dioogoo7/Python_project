@@ -15,4 +15,4 @@ Instacart is an online grocery store that operates through an app. The projectâ€
 * What different classifications does the demographic information suggest? 
 * What differences can you find in ordering habits of different customer profiles? 
 
-[Link to Final Excel Report] (https://1drv.ms/x/s!AnUvVWt6s_rKgpgjRQyb3zwqT6q0uw?e=q5kzmp)
+[Link to Final Excel Report](https://1drv.ms/x/s!AnUvVWt6s_rKgpgjRQyb3zwqT6q0uw?e=q5kzmp)
